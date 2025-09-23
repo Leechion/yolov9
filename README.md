@@ -24,5 +24,5 @@ streamlit run main.py
 
 **图片检测**
 
-![streamlit yolov9 image detection](data/images/imag.png)
+![streamlit yolov9 image detection](data/images/img.png)
 
