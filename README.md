@@ -2,7 +2,6 @@
 
 Deploy [YOLOv5](https://github.com/ultralytics/yolov5/releases/tag/v5.0) detection with [Streamlit](https://github.com/streamlit/streamlit)
 
-博文地址： <https://xugaoxiang.com/2021/08/27/yolov5-streamlit/>
 
 # 线上体验
 
@@ -25,8 +24,5 @@ streamlit run main.py
 
 **图片检测**
 
-![streamlit yolov5 image detection](data/images/image.png)
+![streamlit yolov9 image detection](data/images/imag.png)
 
-**视频检测**
-
-![streamlit yolov5 video detection](data/images/video.png)
